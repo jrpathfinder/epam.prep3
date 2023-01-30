@@ -1,0 +1,1 @@
+CREATE TABLE etl_model(id SERIAL PRIMARY KEY, name VARCHAR(255));
